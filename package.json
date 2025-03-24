@@ -40,6 +40,6 @@
   },
   "packageManager": "yarn@4.0.2",
   "dependencies": {
-    "sanitize-html": "^2.14.0"
+    "sanitize-html": "^2.15.0"
   }
 }
