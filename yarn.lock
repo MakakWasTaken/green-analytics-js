@@ -1237,12 +1237,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/sanitize-html@npm:^2.13.0":
-  version: 2.13.0
-  resolution: "@types/sanitize-html@npm:2.13.0"
+"@types/sanitize-html@npm:^2.15.0":
+  version: 2.15.0
+  resolution: "@types/sanitize-html@npm:2.15.0"
   dependencies:
     htmlparser2: "npm:^8.0.0"
-  checksum: c6614b38f67dd6fb3a94c9163a55fa43b9aa81a845fe9584d9ffbd5da0e00e0ac8162ede9f4bde095840b2ef9db12265f5fcc40b707f48a420405c6aa7c3ff51
+  checksum: 446479c1ed34ee21e5c7eef803056a7fbb984559c16b05a6e53a06f5ecb0e4efd8d3bcfb07f9a73bd15e0be86fd1f12a5f5a539546edab05e9667543b8780800
   languageName: node
   linkType: hard
 
@@ -2679,7 +2679,7 @@ __metadata:
     "@commitlint/config-conventional": "npm:^19.8.0"
     "@types/jest": "npm:^29.5.14"
     "@types/node": "npm:^22.14.0"
-    "@types/sanitize-html": "npm:^2.13.0"
+    "@types/sanitize-html": "npm:^2.15.0"
     husky: "npm:^9.1.7"
     jest: "npm:^29.7.0"
     jest-environment-jsdom: "npm:^29.7.0"
