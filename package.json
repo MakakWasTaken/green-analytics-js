@@ -29,7 +29,7 @@
     "@types/node": "^26.5.1",
     "@types/sanitize-html": "^2.16.1",
     "husky": "^9.1.7",
-    "jest": "^30.5.1",
+    "jest": "^30.5.2",
     "jest-environment-jsdom": "^30.5.1",
     "jest-fetch-mock": "^4.2.0",
     "jest-junit": "^17.0.0",
